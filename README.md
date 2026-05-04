@@ -39,7 +39,6 @@ Add your API key inside the file:
 
 Plaintext
 API_KEY=your_api_key_here
-PORT=5000
 Start the server: node index.js.
 
 3. Setup the Frontend
