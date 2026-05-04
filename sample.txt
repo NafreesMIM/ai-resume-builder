@@ -1,0 +1,13 @@
+Sample 1
+
+Name:
+Mohamed Nafrees
+
+Skills:
+JavaScript, React, Node.js, Express, MongoDB, REST APIs, Git, HTML, CSS
+
+Experience:
+Freelance Full Stack Developer – Built responsive websites and web applications for small businesses. Developed user interfaces using React and handled backend APIs with Node.js.
+
+Education:
+BSc (Hons) Software Engineering – ICBT Campus (2021–2024)
